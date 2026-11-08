@@ -16,12 +16,19 @@
 
 ## 目录结构
 player-feedback-insight/
+
 ├── SKILL.md
+
 ├── references/
+
 │   ├── common-themes.md      # 游戏行业常见反馈主题
+
 │   ├── judgment-guide.md     # 真实痛点 vs 伪需求判断标准
+
 │   └── genre-focus.md        # 不同品类反馈侧重点差异
+
 └── assets/
+
 └── report-template.md    # 报告模板
 
 
